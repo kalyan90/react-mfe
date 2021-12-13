@@ -8,7 +8,7 @@ Repo contains
 
 Container app:
 - Parent/Wrapper app for the child apps
-- Loads child apps upon request
+- MicroFrontend.js is used to render the child apps
 
 Child app 1 & 2:
 - Sample react apps
